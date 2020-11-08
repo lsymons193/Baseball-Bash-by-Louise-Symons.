@@ -13,11 +13,11 @@ Usage Instructions to play pygame:
 -------------------------------------
 -The player must use their keyboard and click the left or right arrows to control whereabouts to position the paddle in the gaming area to hit the baseball in time. 
  The player can gain points based on however long they are playing for. 
--Must use Python that allows the user to receive download the code and run the module to play the Baseball Bash game.
+-Must use Python that allows the user to receive download the zip file and run the game module to play the Baseball Bash game.
 
 What the code does and How to use it?
 ---------------------------------------- 
--The pygame code allows the player to run the module of code which displays the pygame straight away.
+-The pygame code allows the player to run the module of code which displays the pygame straight away, without installing any libraries using pip.
 -The code put into python has allowed the game to display a (600,900) sqaure area of how big the game area to play Baseball Bash game.
  
 The code has created a ball that moves freely around the square and a paddle that can be controlled by the player with the left and right arrow keys on their keyboard.
