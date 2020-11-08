@@ -1,0 +1,10 @@
+Requirements.txt File - Baseball Bash.
+
+This pygame Baseball Bash can be downloaded using the zip file from Github. 
+
+Once the user clicks on the game, the game will display straight away. The user does not need to install any python libraries from 'pip'
+to play Baseball Bash. This is because the pygame already includes all the libraries in the game. 
+
+This makes it easier for the user to download the zip file from Github and play the game straight away without needing to use any 'pip'
+installations.
+
