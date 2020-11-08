@@ -7,3 +7,4 @@ to play Baseball Bash. This is because the pygame already includes all the libra
 
 This makes it easier for the user to download the zip file from Github and play the game straight away without needing to use any 'pip' installations.
 
+There is a pygame.copy version of Baseball Bash incase anything happened to the first version.
