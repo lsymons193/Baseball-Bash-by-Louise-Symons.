@@ -11,13 +11,13 @@ The player must use the paddle to hit the baseball in the air away from the grou
 
 Usage Instructions to play pygame:
 -------------------------------------
+-User must have installed Python 3.8.6 that allows the user to download the zip file from Github and click the game.py file to play the Baseball Bash game.
 -The player must use their keyboard and click the left or right arrows to control whereabouts to position the paddle in the gaming area to hit the baseball in time. 
  The player can gain points based on however long they are playing for. 
--Must use Python that allows the user to receive download the zip file and run the game module to play the Baseball Bash game.
 
 What the code does and How to use it?
 ---------------------------------------- 
--The pygame code allows the player to run the module of code which displays the pygame straight away, without installing any libraries using pip.
+-The pygame code allows the player to run the module of code which displays the pygame straight away, without installing any libraries using 'pip'.
 -The code put into python has allowed the game to display a (600,900) sqaure area of how big the game area to play Baseball Bash game.
  
 The code has created a ball that moves freely around the square and a paddle that can be controlled by the player with the left and right arrow keys on their keyboard.
@@ -26,8 +26,8 @@ The ball moves at a speed rate of 10 that allows the game to run smoothly allowi
 The player can change the speed rate of the ball in the code, if they wanted to increase or decrease the speed rate that the ball is moving depending on their personal preference.
 
 In the future, if I was to change the features of Baseball Bash I would change the objects of the pygame so that the ball could be a different colour, to give the ball more of a "Baseball Appearance".
-I would include more features to make the appearance of the baseball game more relevant to a baseball match such as; Baseball Score Board and using a baseball glove as
-a paddle instead of the black paddle that is currently in the game. This would help make the appearance of the baseball theme seem more realistic to the player.
+I would include more features to make the appearance of the baseball game more relevant to a baseball match such as; Baseball Score Board and using a baseball glove as a paddle
+instead of the black paddle that is in the game. This would make the appearance of the baseball bash game seem more realistic with baseball objects and features.
 -------------------------------------------------------------------------------------------------------------------------
 Louise Symons 
 E-Mail: L.symons@students.rave.ac.uk
